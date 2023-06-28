@@ -1,0 +1,14 @@
+# Define goal's message
+int32 order
+int32 seed1
+int32 seed2
+---
+# Define result's message
+int32[] sequence
+#type result2
+---
+# Define feedback's message
+int32[] sequence
+#type feedback2
+
+#http://wiki.ros.org/actionlib
