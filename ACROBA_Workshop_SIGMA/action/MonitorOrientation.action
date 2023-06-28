@@ -1,0 +1,10 @@
+# Define goal's message
+string turtle_name
+---
+# Define result's message
+float32 degrees
+bool isClockwise
+---
+# Define feedback's message
+
+#http://wiki.ros.org/actionlib

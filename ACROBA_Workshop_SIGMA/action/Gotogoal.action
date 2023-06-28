@@ -1,0 +1,10 @@
+# Define goal's message
+float32 x
+float32 y
+float32 tolerance
+---
+# Define result's message
+---
+# Define feedback's message
+
+#http://wiki.ros.org/actionlib
